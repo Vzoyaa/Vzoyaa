@@ -1,11 +1,26 @@
-<!-- README GitHub Profile - Rendy Riyanto -->
-
-<!-- Header dengan gambar -->
-  <h1>Contoh Menampilkan GIF di HTML</h1>
-
-  <!-- Menampilkan GIF dari URL -->
-  <img src="https://media1.tenor.com/m/pqgfsPUQ-REAAAAC/panosso.gif" alt="GIF Contoh">
-
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contoh GIF di HTML</title>
+  <style>
+    body {
+      background-color: #f0f0f0;
+      text-align: center;
+      font-family: Arial, sans-serif;
+      padding-top: 50px;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+ <img src="https://media1.tenor.com/m/pqgfsPUQ-REAAAAC/panosso.gif" alt="GIF Contoh">
+</body>
+</html>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Selamat+Datang+di+GitHub+Saya!;Jangan+lupa+follow+dan+lihat+project+saya+:)"/>
@@ -17,12 +32,10 @@
  ### 🗄️ Database & Backend Stack
     
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=postgresql&logoColor=white" />
- <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-blue?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-gray?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web-blue?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Indonesia-red?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9OCPJsgnJ-po35PBUM552fcrPIhm01JFYg&s" alt="GIF" width="90" height="10">
+ <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-1-logo-png-transparent.png" alt="GIF" width="90" height="10">
+  <img src="https://kingnewswire.com/wp-content/uploads/data-engineering-and-its-importance-in-todays-world-1723108448.png"alt="GIF" width="90" height="10">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3QCCDZejXUxnGyLX4sHrzrVzxG0ruHKpPIg&s" png"alt="GIF" width="90" height="10">
 </p>
 
 
