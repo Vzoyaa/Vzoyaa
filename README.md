@@ -1,8 +1,11 @@
 <!-- README GitHub Profile - Rendy Riyanto -->
 
 <!-- Header dengan gambar -->
-<p align="center">
-  <img src="pict/panosso.mp4" width="100%" alt="Banner Rendy" />
+  <h1>Contoh Menampilkan GIF di HTML</h1>
+
+  <!-- Menampilkan GIF dari URL -->
+  <img src="https://media1.tenor.com/m/pqgfsPUQ-REAAAAC/panosso.gif" alt="GIF Contoh">
+
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Selamat+Datang+di+GitHub+Saya!;Jangan+lupa+follow+dan+lihat+project+saya+:)"/>
