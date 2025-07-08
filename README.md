@@ -13,10 +13,10 @@
  ### 🗄️ Database & Backend Stack
     
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9OCPJsgnJ-po35PBUM552fcrPIhm01JFYg&s" alt="GIF" width="90" height="10">
- <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-1-logo-png-transparent.png" alt="GIF" width="90" height="10">
-  <img src="https://kingnewswire.com/wp-content/uploads/data-engineering-and-its-importance-in-todays-world-1723108448.png"alt="GIF" width="90" height="10">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3QCCDZejXUxnGyLX4sHrzrVzxG0ruHKpPIg&s" png"alt="GIF" width="90" height="10">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9OCPJsgnJ-po35PBUM552fcrPIhm01JFYg&s" alt="GIF" width="90" height="45">
+ <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-1-logo-png-transparent.png" alt="GIF" width="90" height="50">
+  <img src="https://kingnewswire.com/wp-content/uploads/data-engineering-and-its-importance-in-todays-world-1723108448.png"alt="GIF" width="90" height="45">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3QCCDZejXUxnGyLX4sHrzrVzxG0ruHKpPIg&s" png"alt="GIF" width="50" height="50">
 </p>
 
 
