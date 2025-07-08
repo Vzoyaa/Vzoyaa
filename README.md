@@ -2,7 +2,7 @@
 
 <!-- Header dengan gambar -->
 <p align="center">
-  <img src="pict/PixelMario.jpg" width="100%" alt="Banner Rendy" />
+  <img src="[pict/PixelMario.jpg](https://tenor.com/id/view/panosso-gif-12008883251269662993)" width="100%" alt="Banner Rendy" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Selamat+Datang+di+GitHub+Saya!;Jangan+lupa+follow+dan+lihat+project+saya+:)"/>
