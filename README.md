@@ -1,24 +1,5 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Contoh GIF di HTML</title>
-  <style>
-    body {
-      background-color: #f0f0f0;
-      text-align: center;
-      font-family: Arial, sans-serif;
-      padding-top: 50px;
-    }
-    img {
-      max-width: 100%;
-      height: auto;
-    }
-  </style>
-</head>
 <body>
- <img src="https://media1.tenor.com/m/pqgfsPUQ-REAAAAC/panosso.gif" alt="GIF Contoh">
+ <img src="https://media1.tenor.com/m/pqgfsPUQ-REAAAAC/panosso.gif" alt="GIF Contoh" width="5000px">
 </body>
 </html>
 </p>
