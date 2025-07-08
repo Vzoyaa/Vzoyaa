@@ -1,5 +1,5 @@
 <body>
- <img src="https://media1.tenor.com/m/pqgfsPUQ-REAAAAC/panosso.gif" alt="GIF Contoh" width="5000px">
+ <img src="https://media1.tenor.com/m/pqgfsPUQ-REAAAAC/panosso.gif" alt="GIF Contoh" width="3000px">
 </body>
 </html>
 </p>
